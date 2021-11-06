@@ -1,0 +1,7 @@
+﻿  ControlWork.cpp
+C:\Users\User\Desktop\ControlWork\ControlWork\ControlWork\ControlWork.cpp(15,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\ControlWork\ControlWork\ControlWork\ControlWork.cpp(12,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\ControlWork\ControlWork\ControlWork\ControlWork.cpp(26,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\ControlWork\ControlWork\ControlWork\ControlWork.cpp(14,10): warning C4101: c: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\User\Desktop\ControlWork\ControlWork\Debug\ControlWork.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ControlWork.vcxproj -> C:\Users\User\Desktop\ControlWork\ControlWork\Debug\ControlWork.exe
